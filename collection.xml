@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlatCollection>
+    <flat>
+        <key>h1</key>
+        <name>Myhouse1</name>
+        <coordinates>
+            <x>500</x>
+            <y>10.0</y>
+        </coordinates>
+        <area>80.0</area>
+        <numberOfRooms>4</numberOfRooms>
+        <furnish>DESIGNER</furnish>
+        <view>STREET</view>
+        <transport>LITTLE</transport>
+        <house>
+            <houseName>Stalinka</houseName>
+            <year>55</year>
+            <numberOfLifts>2</numberOfLifts>
+        </house>
+        <creationDate>2022-02-25T21:25:19.152</creationDate>
+        <owner>admin</owner>
+        <id>1</id>
+    </flat>
+    <flat>
+        <key>h2</key>
+        <name>Myhouse2</name>
+        <coordinates>
+            <x>5001</x>
+            <y>101.0</y>
+        </coordinates>
+        <area>50.0</area>
+        <numberOfRooms>3</numberOfRooms>
+        <furnish>DESIGNER</furnish>
+        <view>STREET</view>
+        <transport>LITTLE</transport>
+        <house>
+            <houseName>Stalinka</houseName>
+            <year>55</year>
+            <numberOfLifts>2</numberOfLifts>
+        </house>
+        <creationDate>2022-02-25T21:25:19.152</creationDate>
+        <owner>egor</owner>
+        <id>2</id>
+    </flat>
+</FlatCollection>
